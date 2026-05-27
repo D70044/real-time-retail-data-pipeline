@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue May 26 20:01:39 EDT 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-019e-66bc-a50a-00000a952b30 
+on database directory C:\Users\nikhi\OneDrive\Desktop\target-data-engineering\metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@266474c2 
+Loaded from file:/C:/Users/nikhi/AppData/Local/Python/pythoncore-3.14-64/Lib/site-packages/pyspark/jars/derby-10.16.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.12+8-LTS-286
+user.dir=C:\Users\nikhi\OneDrive\Desktop\target-data-engineering
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
